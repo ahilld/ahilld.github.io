@@ -166,7 +166,9 @@ ul {
     }
 
     .left,
-    .right {
+    .right,
+    .education, 
+    .courses {
         width: 100%;
     }
 }
